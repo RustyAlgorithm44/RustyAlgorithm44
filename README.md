@@ -1,6 +1,20 @@
-# 💫 About Me:
-👋 Hi, I’m a bioinformatician passionate about decoding biology with code.<br>🌱 Currently exploring creative workflows.<br>🎵 Music keeps me inspired, both at work and play.<br>🤝 Open to collaborations in bioinformatics, data science, and creative tech!
+```
+$ whoami
+Guruguhan S
 
+$ bioinformatics --about
+Role: Bioinformatician
+Specialties: Data analysis, genomics, visualization
+Hobbies: Music, exploring new data viz techniques, animation
+
+$ goals --list
+- Build open-source tools
+- Collaborate globally
+
+$ funfacts
+Has more playlists for coding than for working out.
+Has more color palettes for data visualization than for home decor.
+```
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guruguhan-s) 
