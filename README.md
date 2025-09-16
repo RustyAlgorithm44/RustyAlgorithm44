@@ -9,7 +9,7 @@ Hobbies: Music, exploring new data viz techniques, animation
 
 $ goals --list
 - Build open-source tools
-- Collaborate globally
+- Collaborate
 
 $ funfacts
 Has more playlists for coding than for working out.
